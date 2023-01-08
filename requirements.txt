@@ -1,0 +1,8 @@
+confluent-kafka
+requests
+six
+pandas
+jsonschema
+pymongo[srv]
+dnspython
+-e .
