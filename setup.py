@@ -4,7 +4,7 @@ from typing import List
 #Declaring variables for setup functions
 PROJECT_NAME="kafka"
 VERSION="0.0.3"
-AUTHOR="Avnish Yadav"
+AUTHOR="Harshal Kumre"
 DESRCIPTION="This is a sample project for kafka producer and consumer"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
