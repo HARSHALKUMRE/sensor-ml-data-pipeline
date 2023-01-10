@@ -23,7 +23,30 @@ step 4: Install the requirements file
 pip install -r requirements.txt
 ```
 
+Below repo help you to obtain requried credentials
+```
+https://github.com/HARSHALKUMRE/confludent-tutorial
+```
 
+
+Cluster Environment Variable
+```
+API_KEY
+API_SECRET_KEY
+BOOTSTRAP_SERVER
+```
+
+
+Schema related Environment Variable
+```
+SCHEMA_REGISTRY_API_KEY
+SCHEMA_REGISTRY_API_SECRET
+ENDPOINT_SCHEMA_URL
+```
+Data base related Environment Variable
+```
+MONGO_DB_URL
+```
 
 
 
