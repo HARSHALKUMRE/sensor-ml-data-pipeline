@@ -1,6 +1,6 @@
 .env/*
 .idea
-sensor/
+venv/
 *.egg-info
 logs/*
 *.log
